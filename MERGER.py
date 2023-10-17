@@ -1,6 +1,7 @@
 from PyPDF2 import PdfMerger
 import os
 
+# Insert file name name via relative path copy
 pdfs = [
     r'Statement\Statements of Accounts - Michael Brennan - 15.10.2023.pdf',
     r'Statement\A315 Water Edge 9.pdf',
